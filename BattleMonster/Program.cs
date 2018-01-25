@@ -10,6 +10,7 @@ namespace BattleMonster
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
