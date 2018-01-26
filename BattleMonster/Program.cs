@@ -10,6 +10,8 @@ namespace BattleMonster
     {
         static void Main(string[] args)
         {
+            Monster monsterBob = new Monster("Bob", 20.0, 100.0, MonsterType.Fire);
+            Monster monsterLeo = new Monster(MonsterType.Water);
 
         }
     }
